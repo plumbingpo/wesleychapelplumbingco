@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wesleychapelplumbingco.com/sitemap.xml
